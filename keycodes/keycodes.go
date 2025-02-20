@@ -95,6 +95,7 @@ const (
 // from machine/usb/hid/keyboard
 const (
 	ShiftMask = 0x0400
+	AltGrMask = 0x0080
 )
 
 const (
