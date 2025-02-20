@@ -47,6 +47,7 @@ const (
 	KeyWindows    = TypeNormal | 0xE3
 	KeyRightCtrl  = TypeNormal | 0xE4
 	KeyRightShift = TypeNormal | 0xE5
+	KeyRightAlt   = TypeNormal | 0xE6
 
 	KeyH         = TypeNormal | 0x0B
 	KeyBackspace = TypeNormal | 0x2A
